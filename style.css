@@ -1,0 +1,16 @@
+#name_of_the_student_1 {
+    background-color: aqua;
+}
+#name_of_the_student_2 {
+    background-color: rgb(21, 255, 0);
+}
+
+#name_of_the_student_3 {
+    background-color: rgb(255, 72, 0);
+}
+#name_of_the_student_4 {
+    background-color: rgb(38, 0, 255);
+}
+input {
+    margin: 15px;
+}
